@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tony</h1>
 <h3 align="center">A passionate Fullstack Developer from Germany</h3>
 
-- 👨‍💻 All of my projects are available at [https://tony-schiller.com/](www.tony-schiller.com)
+- 👨‍💻 All of my projects are available at [tony-schiller.com](https://tony-schiller.com/)
 
 - 📫 How to reach me **info@tony-schiller.com**
 
